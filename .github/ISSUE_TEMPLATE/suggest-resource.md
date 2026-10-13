@@ -13,7 +13,7 @@ Code / data / project links:
 
 ## Relevance
 
-Category (C01–C10):
+Existing category ID or proposed category name:
 Problem identifiers:
 What capability does it demonstrate, and what gap remains?
 

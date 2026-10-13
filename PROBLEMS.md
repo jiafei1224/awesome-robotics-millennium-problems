@@ -1,6 +1,8 @@
 # Candidate Millennium Problems of Robotics
 
-These are **twenty draft research problems**, organized under the ten [categories](README.md#categories). Each question names a capability, a central obstacle, and an evaluation that could provide evidence of progress. They are proposals for discussion and refinement, rather than claims of consensus or formal prize problems.
+The initial catalog contains **twenty draft research problems**, organized under ten [categories](README.md#categories). Each question names a capability, a central obstacle, and an evaluation that could provide evidence of progress. They are proposals for discussion and refinement, rather than claims of consensus or formal prize problems.
+
+**Add your own:** open a pull request to propose a new category with at least one challenge, or add a challenge to any existing category. See the [PR instructions](CONTRIBUTING.md#how-to-submit-a-pull-request) and [challenge template](CONTRIBUTING.md#challenge-template).
 
 All validation ideas below are this repository's proposals. Linked research provides context and starting points; it does not endorse these problem formulations. Use the shared [evaluation protocol](EVALUATION.md) to define task distributions, resource budgets, and acceptance thresholds before an experiment.
 
@@ -228,6 +230,6 @@ All validation ideas below are this repository's proposals. Linked research prov
 
 Every entry starts with status **Draft proposal**. A useful refinement makes the task distribution, assumptions, resource budgets, and success criteria more precise while preserving the significance of the underlying question.
 
-Contributors may propose new problems, split an overly broad problem, or document that a specific formulation has been answered. Keep identifiers stable; preserve historical context when merging or retiring an entry. A benchmark improvement establishes progress within its stated scope. A broader resolution claim should provide independent reproduction and address the declared generalization and reliability requirements.
+Contributors may propose new categories and challenges, split an overly broad problem, or document that a specific formulation has been answered. New categories should include at least one challenge. Keep existing identifiers stable; use `CXX` and `PXX` for draft additions until maintainers assign permanent identifiers. Preserve historical context when merging or retiring an entry. A benchmark improvement establishes progress within its stated scope. A broader resolution claim should provide independent reproduction and address the declared generalization and reliability requirements.
 
-Use the [problem proposal template](https://github.com/jiafei1224/awesome-robotics-millennium-problems/issues/new?template=propose-problem.md) and include evidence for both what is now possible and what remains unresolved.
+Follow [CONTRIBUTING.md](CONTRIBUTING.md) to submit a PR, and include evidence for both what is now possible and what remains unresolved. For early discussion, use the [problem proposal issue template](https://github.com/jiafei1224/awesome-robotics-millennium-problems/issues/new?template=propose-problem.md).

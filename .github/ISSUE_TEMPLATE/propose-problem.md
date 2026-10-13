@@ -1,5 +1,5 @@
 ---
-name: Propose or refine a problem
+name: Propose or refine a challenge
 about: Make a robotics grand challenge specific and measurable
 title: '[Problem] '
 ---
@@ -7,7 +7,7 @@ title: '[Problem] '
 ## Question
 
 Proposed question:
-Category (C01–C10):
+Existing category ID or proposed category name:
 Related existing problem identifiers:
 New problem, refinement, split, merge, or retirement:
 

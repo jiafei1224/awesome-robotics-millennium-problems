@@ -8,9 +8,11 @@
 
 What would it take for a robot to move, manipulate, collaborate, and keep learning in the real world—with the reliability needed for everyday use?
 
-This repository brings together **ten research categories, twenty candidate problem statements, and a curated reading list**. “Millennium problems” is an organizing idea: the categories and problem statements are community proposals, open to revision as the field advances. They emphasize physical interaction, learning, and deployment.
+The initial list brings together **ten research categories, twenty candidate problem statements, and a curated reading list**. “Millennium problems” is an organizing idea: the categories and problem statements are community proposals, open to revision as the field advances. They emphasize physical interaction, learning, and deployment.
 
 **Start here:** browse the [categories](#categories), explore the [candidate problems](PROBLEMS.md), or use the [evaluation protocol](EVALUATION.md) to make a proposed challenge measurable. Contributions that sharpen a question or document a limitation are as valuable as new papers.
+
+**Help shape the research agenda:** submit a pull request to **add a new category** or **propose a specific challenge within any category**. New categories should include at least one concrete challenge and relevant sources. Follow the [step-by-step PR instructions](CONTRIBUTING.md#how-to-submit-a-pull-request) and copy the [challenge template](CONTRIBUTING.md#challenge-template). The category list is open to expansion.
 
 ## Contents
 
@@ -166,7 +168,9 @@ Candidate problems: [P19](PROBLEMS.md#p19-designing-bodies-for-learnable-behavio
 
 ## Contributing
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md), then [propose a problem or suggest a resource](https://github.com/jiafei1224/awesome-robotics-millennium-problems/issues/new/choose). Add the original source, explain which problem it informs, and distinguish demonstrated capability from the remaining gap.
+**Pull requests are welcome for new categories, new challenges in existing categories, and refinements to existing challenges.** Fork this repository, edit the relevant files, and open a PR targeting `jiafei1224/awesome-robotics-millennium-problems:main`. See [CONTRIBUTING.md](CONTRIBUTING.md) for the workflow, file checklist, and copyable templates.
+
+For each challenge, explain the research question, why it is hard, what convincing progress would look like, and which primary sources support it. For a new category, explain its scope and how it relates to existing categories, and include at least one challenge. You can submit a PR directly; an [issue](https://github.com/jiafei1224/awesome-robotics-millennium-problems/issues/new/choose) is also useful for discussing an early idea.
 
 The initial problem statements are **draft proposals**. The [problem catalog](PROBLEMS.md) explains how to refine, split, or retire them as evidence improves. Evaluation criteria in this repository are proposed protocols, not results reported by the linked authors.
 
